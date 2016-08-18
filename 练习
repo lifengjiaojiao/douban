@@ -1,0 +1,96 @@
+<html>
+     <head>
+           <title>练习</title>
+     <head>
+     <body>
+           <div style="width:650;height:984;">
+              <div style="width:650;height:233;float:left;">
+                  
+                  <div style="width:592;height:51;float:left;background:#7d7d7d;line-height:51px;color:white;padding-left:58px;">
+                     LOOKUP  HOME BOOK FAMILY </div>
+                 
+                 <div style="width:650;height:182;float:left;">
+                  <img src="images/moban1376_02.gif"/></div>
+                </div>
+               <div style="width:650;height:144;background:#ea4f5f;float:left;color:white;text-align:center;line-height:10px;">   
+                        <p>Interior designers and Decorators</p>
+                        <p>lorem ipsum slt amet consectetur</p>
+
+
+
+
+         </div>
+
+           <div style="width:650;height:115;background:white;float:left;color:black;text-align:center;line-height:10px;">
+                       <p>Our services</p>
+                        <p>lorem ipsum doler sit consectetur</p>
+           </div>
+
+            <div style="width:650;height:277;float:left;">
+                <div style="width:650;height:106;float:left;">
+                <div style="float:left;margin-left:58;">
+                  <img src="images/moban1376_06.gif"/></div>
+                <div style="width:138;height:89;background:#bcbcbe;float:left;margin-top:17;color:white;text-align:center;line-height:8px;">
+                    <p>KITCHEN</p><br/>
+                    ler em ipsum color sit amet<br/>
+                </div>
+               <div style="float:left;">
+                  <img src="images/moban1376_08.gif"/></div>
+                <div style="width:138;height:89;background:#bcbcbe;float:left;margin-top:17;color:white;text-align:center;line-height:8px;">
+                    <b>KITCHEN</b><br/>
+                    ler em ipsum color sit amet<br/>
+                 </div>
+                 <div style="float:left;">
+                  <img src="images/moban1376_08.gif"/></div>
+                <div style="width:138;height:89;background:#bcbcbe;float:left;margin-top:17;color:white;text-align:center;line-height:10px;">
+                    <b>KITCHEN</b><br/>
+                    ler em ipsum color sit amet<br/>
+                 </div>
+                 </div>
+      
+                 <div style="width:650;height:125;float:left;">
+                      <div style="width:650;height:106;float:left;">
+                <div style="float:left;margin-left:58;">
+                  <img src="images/moban1376_12.gif"/></div>
+                <div style="width:138;height:89;background:#bcbcbe;float:left;margin-top:36;color:white;text-align:center;line-height:8px;">
+                    <b>KITCHEN</b><br/>
+                    ler em ipsum color sit amet<br/>
+                </div>
+               <div style="float:left;">
+                  <img src="images/moban1376_13.gif"/></div>
+                <div style="width:138;height:89;background:#bcbcbe;float:left;margin-top:36;color:white;text-align:center;line-height:8px;">
+                    <b>KITCHEN</b><br/>
+                    ler em ipsum color sit amet<br/>
+                 </div>
+                 <div style="float:left;">
+                  <img src="images/moban1376_14.gif"/></div>
+                <div style="width:138;height:89;background:#bcbcbe;float:left;margin-top:36;color:white;text-align:center;line-height:10px;font:黑体；">
+                    <b>KITCHEN</b><br/>
+                    ler em ipsum color sit amet<br/>
+                 </div>
+                    
+
+
+
+
+
+</div>
+</div>
+
+
+</div>
+
+             <div style="width:650;height:215;background:purple;float:left;">
+              <div style="float:left;">
+                  <img src="images/moban1376_18.gif"/></div>  
+                 <div style="width:325;height:215;background:#bcbcbe;float:left;color:white;text-align:center;line-height:20px;font-size:20px;line-height:20px;">
+                <p>Abour Our Computer</p><br/>    
+                we are good student
+                I like looking books
+                
+
+     </div>
+     </div>
+     </div>
+     </body>
+</html>
